@@ -1,3 +1,3 @@
-# Zuri-X-I4G-
+# ATM Mock Project-
 
-All my assignments and projects from Zuri and I4G Training
+
